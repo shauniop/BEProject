@@ -12,3 +12,4 @@ Currently, college professors enter marks for all students and manually calculat
 
 We plan to eliminate all the manual calculation of COs and POs and provide professors with tools to generate reports, charts, graphs,etc.
  
+This project has been currently discontinued and will not be maintained in the future.
